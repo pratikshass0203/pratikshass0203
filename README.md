@@ -21,8 +21,8 @@ A gamified platform for learning digital electronics — build circuits, solve l
 
 ## Skills
 
-VLSI
-Embedded Systems 
+'VLSI'
+'Embedded Systems' 
 Internet of Things
 Python 
 JavaScript
